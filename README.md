@@ -51,7 +51,3 @@ implementation.
 
 ---
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/nishanth30679/KLH-CSE-2026-27-Team-10-ExplainableAIAttrition-Prediction.git
